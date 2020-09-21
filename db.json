@@ -2,7 +2,25 @@
   "items": [
     {
       "id": 1,
-      "title": "hello"
+      "item": "latte",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "item": "pane",
+      "qty": 1,
+      "where": "Macelletto"
+    },
+    {
+      "id": 3,
+      "item": "polpa Mutti",
+      "qty": 16,
+      "where": "Conad"
+    },
+    {
+      "id": 4,
+      "item": "fazzoletti",
+      "qty": 4
     }
   ],
   "profile": {
